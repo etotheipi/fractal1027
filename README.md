@@ -12,8 +12,11 @@ Notebook:
 4. Real-time Fractal Manipulation!
 5. Using CuPy FFTs to find good fractals
 
+-----
 
-### NOTE: Because of the visualizations & interactive elements in this notebook, it will not work in Colab!
+### JUMP RIGHT TO THE NOTEBOOK [HERE](fractal_1027.ipynb)
+
+#### (NOTE: This notebook will technically run in Colab, but none of the interactive elements will work!)
 
 -----
 
